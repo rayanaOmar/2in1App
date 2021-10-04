@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">2IN1App</string>
+    <string name="item">Item</string>
+    <string name="string_item" />
+</resources>
